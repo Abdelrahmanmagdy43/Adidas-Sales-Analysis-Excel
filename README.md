@@ -1,6 +1,15 @@
-Adidas Sales Performance Dashboard
-This project involves a comprehensive analysis of Adidas sales data. I transformed raw data into an interactive dashboard to track key performance indicators (KPIs).
+Adidas Sales Performance Analysis (Excel)
+📊 Project Overview
+This project provides a comprehensive analysis of Adidas sales data across the United States. I transformed raw sales data into an interactive dashboard to track key performance indicators (KPIs) and identify growth opportunities.
 
-Tools: Excel (Pivot Tables, Power Query, Advanced Formulas).
+🛠️ Features & Tools
+Data Cleaning: Using Power Query to handle missing values and format consistency.
 
-Key Metrics: Total Sales, Operating Profit, Sales Method analysis, and Regional Performance.
+Analysis: Utilizing Pivot Tables to aggregate sales by region, product, and retailer.
+
+Visualization: Interactive Dashboard with Slicers for dynamic filtering by Year and Region.
+
+📈 Key Insights
+Identified the top-performing sales methods (In-store vs. Online).
+
+Analyzed regional profit margins to pinpoint underperforming markets.

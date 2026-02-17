@@ -1,4 +1,4 @@
-Adidas Sales Performance Analysis (Excel)
+Adidas Sales Performance Analysis (Excel)            [Adidas Dashboard.jpg]
 📊 Project Overview
 This project provides a comprehensive analysis of Adidas sales data across the United States. I transformed raw sales data into an interactive dashboard to track key performance indicators (KPIs) and identify growth opportunities.
 
